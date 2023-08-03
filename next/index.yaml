@@ -371,7 +371,7 @@ entries:
     - https://github.com/concerthall/gosnappass-helm
     type: application
     urls:
-    - https://komish.github.com/chart-migration/gosnappass-0.0.1.tgz
+    - https://komish.github.io/chart-migration/gosnappass-0.0.1.tgz
     version: 0.0.1
   osm-edge:
   - annotations:
